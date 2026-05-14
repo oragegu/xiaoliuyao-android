@@ -15,15 +15,13 @@ The app is written in Kotlin with Jetpack Compose and builds with Gradle.
 
 ## Screenshots
 
-![Ask an intention and start a private pull](docs/screenshots/Screenshot_20260514_190742.png)
-
-![Pulled cards before reveal](docs/screenshots/Screenshot_20260514_190845.png)
-
-![Reveal cards from the pull](docs/screenshots/Screenshot_20260514_190855.png)
-
-![Knowledge view for LiuYao cards](docs/screenshots/Screenshot_20260514_190903.png)
-
-![Saved pull records](docs/screenshots/Screenshot_20260514_190911.png)
+<p>
+  <img src="docs/screenshots/Screenshot_20260514_190742.png" alt="Ask an intention and start a private pull" width="180">
+  <img src="docs/screenshots/Screenshot_20260514_190845.png" alt="Pulled cards before reveal" width="180">
+  <img src="docs/screenshots/Screenshot_20260514_190855.png" alt="Reveal cards from the pull" width="180">
+  <img src="docs/screenshots/Screenshot_20260514_190903.png" alt="Knowledge view for LiuYao cards" width="180">
+  <img src="docs/screenshots/Screenshot_20260514_190911.png" alt="Saved pull records" width="180">
+</p>
 
 ## Notes
 
