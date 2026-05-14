@@ -13,6 +13,11 @@ The app lets you:
 
 The app is written in Kotlin with Jetpack Compose and builds with Gradle.
 
+## Other Versions
+
+Also available for [web](https://github.com/oragegu/shuffle-card) and [iOS](https://github.com/).
+
+
 ## Screenshots
 
 <p>
