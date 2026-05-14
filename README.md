@@ -16,11 +16,11 @@ The app is written in Kotlin with Jetpack Compose and builds with Gradle.
 ## Screenshots
 
 <p>
-  <img src="docs/screenshots/Screenshot_20260514_190742.png" alt="Ask an intention and start a private pull" width="180">
-  <img src="docs/screenshots/Screenshot_20260514_190845.png" alt="Pulled cards before reveal" width="180">
-  <img src="docs/screenshots/Screenshot_20260514_190855.png" alt="Reveal cards from the pull" width="180">
-  <img src="docs/screenshots/Screenshot_20260514_190903.png" alt="Knowledge view for LiuYao cards" width="180">
-  <img src="docs/screenshots/Screenshot_20260514_190911.png" alt="Saved pull records" width="180">
+  <img src="docs/screenshots/Screenshot_20260514_190742.png" alt="Ask an intention and start a private pull" width="380">
+  <img src="docs/screenshots/Screenshot_20260514_190845.png" alt="Pulled cards before reveal" width="380">
+  <img src="docs/screenshots/Screenshot_20260514_190855.png" alt="Reveal cards from the pull" width="380">
+  <img src="docs/screenshots/Screenshot_20260514_190903.png" alt="Knowledge view for LiuYao cards" width="380">
+  <img src="docs/screenshots/Screenshot_20260514_190911.png" alt="Saved pull records" width="380">
 </p>
 
 ## Notes
